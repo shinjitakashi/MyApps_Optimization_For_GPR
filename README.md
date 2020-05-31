@@ -1,1 +1,11 @@
-"# MyApps_Optimization_For_GPR" 
+MyApps_Optimization_For_GPR
+ 
+ガウス過程のハイパーパラメータの最適化アルゴリズムのシミュレーション
+ 
+　－ いくつかの通信手法でのデータ予測・通信量のプロット・正規化誤差による
+ 
+
+# Author
+ 
+* 足立貴史
+* 所属：大阪大学
